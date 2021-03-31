@@ -1,0 +1,8 @@
+config:
+  gcp:project: rapid-access-305609
+  gcp_pulumi_1116:name_prefix: msat
+  gcp_pulumi_1116:project: rapid-access-305609
+  gcp_pulumi_1116:region: us-east1
+  msat-trade:name_prefix: msat
+  msat-trade:project: rapid-access-305609
+  msat-trade:region: us-east1
